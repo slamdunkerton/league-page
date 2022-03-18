@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Super Friends Dynasty League. Founded in 2021, by 16 average blokes who think they know better than actual paid coaches and executives.</p>
+  <p>Welcome to the Super Friends Dynasty League. The league was founded in 2021, by 16 average blokes who think they know better than actual paid coaches and executives.</p>
   <p>This league welcomes challengers from three different countries, Hong Kong, USA and Australia, therefore making it more prestigious than the actual NFL.</p>
   <p>Our current reigning, defending, champion is Vincent Chen out of Hong Kong, who cucked the evil Commish Nathan "Fudge Goodell" McGrath, in the 2021/2022 Super Friends Champtionship.</p>
    
